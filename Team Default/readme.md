@@ -3,7 +3,7 @@ Team Default
 Team Members
 ------------
 
-Tau
+Tal
 Christian
 Ethan
 
