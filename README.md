@@ -7,7 +7,11 @@ Teams
 =====
 
 Team Team
+
 Team BattleBotz
+
 Team Default
+
 Team Mindstormers
+
 Team Bomba Phoenixes
